@@ -1,0 +1,7 @@
+---
+program: guess_num
+inputs:
+  my_int1: 3
+  my_int2: 3
+expected_outputs:
+  is_same_num: true
