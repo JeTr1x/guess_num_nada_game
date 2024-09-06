@@ -7,7 +7,7 @@ python3 --version
 python3 -m pip --version
 ```
 _____________________
-1. Install Nillion sdk using [official guide] (https://docs.nillion.com/quickstart-install)
+1. Install Nillion sdk using [official guide](https://docs.nillion.com/quickstart-install)
 2. Clone this repo
 ```
 git clone https://github.com/JeTr1x/guess_num_nada_game/
